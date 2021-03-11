@@ -3,7 +3,8 @@ pandas
 numpy
 plotly
 networkx
-matplotlib.pyplot
+matplotlib
+pyplot
 LogisticRegression
 classification_report
 roc_auc_score
@@ -14,5 +15,6 @@ tqdm
 plot_confusion_matrix
 plot_roc_curve
 seaborn
-sklearn.metrics
+sklearn
+metrics
 lightgbm
