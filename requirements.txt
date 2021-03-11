@@ -6,12 +6,14 @@ plotly
 networkx
 matplotlib.pyplot
 LogisticRegression
-classification_report, roc_auc_score
+classification_report
+roc_auc_score
 train_test_split
 confusion_matrix
 datasets
 tqdm
-plot_confusion_matrix, plot_roc_curve
+plot_confusion_matrix
+plot_roc_curve
 seaborn
 sklearn.metrics
 lightgbm
